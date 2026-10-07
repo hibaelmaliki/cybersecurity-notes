@@ -1,0 +1,2 @@
+# cybersecurity-notes
+ruta SOC
